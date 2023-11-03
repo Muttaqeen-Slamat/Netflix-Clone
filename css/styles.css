@@ -1,0 +1,55 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    background-color: black;
+}
+
+#logo{
+    width: 150px;
+}
+
+body{
+    background-color: black;
+}
+
+.Movies{
+    width: 275px;
+    height: 350px;
+    padding: 20px;
+}
+
+.Movies:hover{
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+}
+
+.TV{
+    width: 275px;
+    height: 350px;
+    padding: 20px;
+}
+
+.TV:hover{
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+}
+
+.Rec{
+    width: 275px;
+    height: 350px;
+    padding: 20px;
+}
+
+.Rec:hover{
+    width: 300px;
+    height: 375px;
+    padding: 20px;
+}
